@@ -11,6 +11,7 @@ namespace Tests
 {
     public class DownloadTests
     {
+		var a="";
         const string TEST_URL = "https://memegenerator.net/img/images/1154731/success-baby.jpg";
         const string TEST_FILE = "success.jpg";
         const string TEST_FILE_IN_DIR = "tests/success.jpg";
